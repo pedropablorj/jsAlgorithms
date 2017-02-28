@@ -38,3 +38,4 @@ function merge(arrOne, arrTwo){
 console.log(arr);
 //Output
 console.log(sort(arr));
+
