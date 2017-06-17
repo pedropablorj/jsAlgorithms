@@ -1,2 +1,2 @@
 # jsAlgorithms
-Basic algorithms made on JavaScript
+Basic sort and search algorithms made with JavaScript
